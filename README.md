@@ -40,8 +40,8 @@
 <details>
     <summary><strong>Github stats</strong></summary>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=auroret&theme=dark)](https://git.io/streak-stats)
-
+[![Ashutosh's github activity graph](https://ghactivity.mrayush.me/graph?username=auroret&bg_color=000000&color=699e4c&line=41c837&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    
 ![trophy](https://github-profile-trophy.vercel.app/?username=auroret&rank=S,SS,SSS,SECRET,AAA,AA,A&no-bg=true)
 </details>
 
