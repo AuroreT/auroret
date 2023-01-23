@@ -51,6 +51,10 @@
 <br/>
 
 [CodersRank](https://profile.codersrank.io/user/auroret)
+    
+    <img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=auroret&branding=false&show-avatar=true&style=--border-radius:10px"
+/>
 </details>
 
 <details>
