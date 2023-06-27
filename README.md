@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=2B96C5&center=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Aurore;Mobile+developer;Remote+worker;Flutter+enthusiast" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 Currently working as Lead mobile developer @epicery
+- 🔭 Currently working as Lead Tech @lamobilery
 - ⚡ Used to love Android but total Flutter enthusiast now
 - 🧭 Working remotely from 🇫🇷 since 2020
 
