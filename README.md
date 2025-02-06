@@ -34,7 +34,7 @@
     <summary><strong>CodersRank</strong></summary>
 <br/>
 
-[CodersRank](https://profile.codersrank.io/user/auroret)    
+<a href="https://profile.codersrank.io/user/auroret" target="_blank">CodersRank</a>
     
 </details>
 
