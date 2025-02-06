@@ -34,16 +34,16 @@
     <summary><strong>CodersRank</strong></summary>
 <br/>
 
-<a href="https://profile.codersrank.io/user/auroret" target="_blank">CodersRank</a>
+[CodersRank](https://profile.codersrank.io/user/auroret)
     
 </details>
 
 <details>
     <summary><strong>Setup</strong></summary>
 
-- Laptop: MacBookPro (M1)
-- Terminal: ZSH/OhMyZsh (Powerlevel9k)
-- IDE: Android Studio - XCode
-- Personal documentation: Typora
+- 💻 Laptop: MacBookPro (M1)
+- ⌨️ Terminal: ZSH/OhMyZsh (Powerlevel9k)
+- 🛠️ IDE: Android Studio - XCode
+- 📝 Personal documentation: Typora
 </details>
  
