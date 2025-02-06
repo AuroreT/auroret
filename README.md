@@ -10,29 +10,27 @@
 <details>
     <summary><strong>Mobile</strong></summary>
     <div class="row">
-    <a href="https://dart.dev/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="80" /></a>
-    <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="80" /></a>
-    <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="40" height="80" /></a>
-    <a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="80" /></a>
-    <a href="https://docs.oracle.com/javase/7/docs/technotes/guides/language/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="80" /></a>
-    <a href="https://developer.apple.com/swift/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="80" /></a>
+    <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
+    <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+    <a href="https://www.android.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="40" height="80"/></a>
+    <a href="https://www.apple.com/ios/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="80"/></a>
      </div>
 </details>
 
 <details>
     <summary><strong>CI/CD</strong></summary>
     <div class="row">
-    <a href="https://codemagic.io" target="_blank" rel="noopener noreferrer"><img src="https://github.com/AuroreT/auroret/blob/main/assets/codemagic.svg" width="40" height="80" /></a>
-    <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img src="https://github.com/AuroreT/auroret/blob/main/assets/gactions.svg" width="40" height="80" /></a>
+    <a href="https://codemagic.io"><img src="https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=codemagic&logoColor=white"/></a>
+    <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>
     </div>
 </details>
 
 <details>
     <summary><strong>Others</strong></summary>
     <div class="row">
-    <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="80" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="80" /></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="80" /></a>
+    <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+    <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
     </div>
 </details>
 
