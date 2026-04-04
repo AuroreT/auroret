@@ -1,49 +1,43 @@
 # Hey 👋, I'm Aurore
-### Mobile and web developer | Remote worker | Flutter enthusiast
 
-- 🔭 Currently working as Lead Tech @lamobilery
-- ⚡ Used to love Android but total Flutter enthusiast now  
-- 🧭 Working remotely from 🇫🇷 since 2020
+### Technical Lead Mobile | Flutter enthusiast | AI-augmented builder
+
+- 🔭 Currently working as a Technical Lead @lamobilery and building products as a Solopreneur
+- ⚡ Transitioned from Native Android/iOS to deep Flutter expertise, with 11 years in software development
+- 🤖 Deeply invested in AI-augmented development, using AI as a core dev tool and building multi-provider LLM pipelines
+- 🚀 Shipped 4 solo products — [cortex-labs](https://cortex-labs.eu/), [cookfolio](https://cookfolio.eu/), [switchto](https://switchto.eu/), [kanso](https://kanso-extension.eu/)
 
 ## My core skill set
+
 ### Mobile
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/) [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/) [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/) [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+
+### Backend & Data
+
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/) [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
 ### CI/CD
-[![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=codemagic&logoColor=white)](https://codemagic.io)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
-### Others
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=codemagic&logoColor=white)](https://codemagic.io/) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions) [![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)](https://fastlane.tools/)
 
-## Some metrics and infos
-<details>
-    <summary><strong>Github stats</strong></summary>
 
-[![Ashutosh's github activity graph](https://ghactivity.mrayush.me/graph?username=auroret&bg_color=000000&color=699e4c&line=41c837&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-    
-![trophy](https://github-profile-trophy.vercel.app/?username=auroret&rank=S,SS,SSS,SECRET,AAA,AA,A&no-bg=true)
-</details>
+### LLM APIs & AI Tooling
 
-<details>
-    <summary><strong>CodersRank</strong></summary>
-<br/>
+[![Anthropic API](https://img.shields.io/badge/Anthropic_API-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)](https://docs.anthropic.com/) [![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/) [![Mistral API](https://img.shields.io/badge/Mistral_API-FF7000?style=for-the-badge&logo=mistral&logoColor=white)](https://docs.mistral.ai/) [![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/) [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 
-[CodersRank](https://profile.codersrank.io/user/auroret)
-    
-</details>
+## Solo projects
 
-<details>
-    <summary><strong>Setup</strong></summary>
+- [cortex-labs.eu](https://cortex-labs.eu/) — Multi-LLM pipeline for crypto market analysis in a simulated paper trading environment
+- [cookfolio.eu](https://cookfolio.eu/) — Recipe manager with AI-powered import from photos, PDFs and handwritten notes
+- [switchto.eu](https://switchto.eu/) — Guide to migrating from GAFAM to European alternatives
+- [kanso-extension.eu](https://kanso-extension.eu/) — Minimalist Chrome new tab: wallpapers, weather, Pomodoro, ambient sounds
 
-- 💻 Laptop: MacBookPro (M1)
-- ⌨️ Terminal: ZSH/OhMyZsh (Powerlevel9k)
-- 🛠️ IDE: Android Studio - XCode
-- 📝 Personal documentation: Typora
-</details>
- 
+## My daily tools
+
+- 💻 Laptop: MacBook Pro (M1)
+- ⌨️ Terminal: iTerm2 - ZSH/OhMyZsh
+- 🛠️ IDE: Android Studio - XCode - WebStorm - Claude Code
+- 🌐 Browser: Vivaldi
+- 🔒 Privacy stack: Proton (Mail, Calendar, Drive, VPN, Password manager)
+- 📝 Organization & docs: Notion - Typora
