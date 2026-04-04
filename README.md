@@ -30,7 +30,6 @@
 
 - [cortex-labs.eu](https://cortex-labs.eu/) — Multi-LLM pipeline for crypto market analysis in a simulated paper trading environment
 - [cookfolio.eu](https://cookfolio.eu/) — Recipe manager with AI-powered import from photos, PDFs and handwritten notes
-- [switchto.eu](https://switchto.eu/) — Guide to migrating from GAFAM to European alternatives
 - [kanso-extension.eu](https://kanso-extension.eu/) — Minimalist Chrome new tab: wallpapers, weather, Pomodoro, ambient sounds
 
 ## My daily tools
