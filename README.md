@@ -36,7 +36,7 @@
 
 - 💻 Laptop: MacBook Pro (M1)
 - ⌨️ Terminal: Warp - ZSH/OhMyZsh
-- 🛠️ IDE: Android Studio - XCode - WebStorm - Claude Code
+- 🛠️ IDE: VS Code - Android Studio - Xcode
 - 🌐 Browser: Vivaldi
 - 🔒 Privacy stack: Proton (Mail, Calendar, Drive, VPN, Password manager)
 - 📝 Organization & docs: Notion - Typora
