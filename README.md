@@ -1,11 +1,11 @@
 # Hey 👋, I'm Aurore
 
-### Technical Lead Mobile | Flutter enthusiast | AI-augmented builder
+### Technical Lead Mobile | Agentic AI Engineer | AI Solutions Architect
 
-- 🔭 Currently working as a Technical Lead @lamobilery and building products as a Solopreneur
-- ⚡ Transitioned from Native Android/iOS to deep Flutter expertise, with 11 years in software development
-- 🤖 Deeply invested in AI-augmented development, using AI as a core dev tool and building multi-provider LLM pipelines
-- 🚀 Shipped 4 solo products — [cortex-labs](https://cortex-labs.eu/), [cookfolio](https://cookfolio.eu/), [switchto](https://switchto.eu/), [kanso](https://kanso-extension.eu/)
+🔭 Technical Lead @lamobilery, helping clients pinpoint where AI fits, then designing and building their agentic solutions, while shipping my own products as a Solopreneur<br>
+⚡ 11 years in software, from Native Android/iOS to deep Flutter expertise, now building agentic AI<br>
+🤖 Building agentic AI systems: harnesses, context engineering, multi-agent orchestration and multi-provider LLM pipelines<br>
+🚀 Shipped a lot, killed most, 3 still standing: [cookfolio](https://cookfolio.eu/), [cortex-labs](https://cortex-labs.eu/), [kanso](https://kanso-extension.eu/)
 
 ## My core skill set
 
@@ -28,15 +28,16 @@
 
 ## Solo projects
 
-- [cortex-labs.eu](https://cortex-labs.eu/) — Multi-LLM pipeline for crypto market analysis in a simulated paper trading environment
 - [cookfolio.eu](https://cookfolio.eu/) — Recipe manager with AI-powered import from photos, PDFs and handwritten notes
+- [cortex-labs.eu](https://cortex-labs.eu/) — Multi-LLM pipeline for crypto market analysis in a simulated paper trading environment
 - [kanso-extension.eu](https://kanso-extension.eu/) — Minimalist Chrome new tab: wallpapers, weather, Pomodoro, ambient sounds
 
 ## My daily tools
 
-- 💻 Laptop: MacBook Pro (M1)
-- ⌨️ Terminal: Warp - ZSH/OhMyZsh
-- 🛠️ IDE: VS Code - Android Studio - Xcode
-- 🌐 Browser: Vivaldi
-- 🔒 Privacy stack: Proton (Mail, Calendar, Drive, VPN, Password manager)
-- 📝 Organization & docs: Notion - Typora
+💻 Laptop: MacBook Pro (M1)<br>
+⌨️ Terminal: Warp - ZSH/OhMyZsh<br>
+🛠️ IDE: VS Code - Android Studio - Xcode<br>
+🌐 Browser: Vivaldi<br>
+🔒 Privacy stack: Proton (Mail, Calendar, Drive, VPN, Password manager)<br>
+📝 Organization & docs: Notion - Typora<br>
+🎙️ Voice: Willow Voice
