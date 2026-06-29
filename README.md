@@ -35,7 +35,7 @@
 ## My daily tools
 
 - 💻 Laptop: MacBook Pro (M1)
-- ⌨️ Terminal: iTerm2 - ZSH/OhMyZsh
+- ⌨️ Terminal: Warp - ZSH/OhMyZsh
 - 🛠️ IDE: Android Studio - XCode - WebStorm - Claude Code
 - 🌐 Browser: Vivaldi
 - 🔒 Privacy stack: Proton (Mail, Calendar, Drive, VPN, Password manager)
