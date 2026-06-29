@@ -2,10 +2,10 @@
 
 ### Technical Lead Mobile | Agentic AI Engineer | AI Solutions Architect
 
-🔭 Technical Lead @lamobilery, helping clients pinpoint where AI fits, then designing and building their agentic solutions, while shipping my own products as a Solopreneur<br>
-⚡ 11 years in software, from Native Android/iOS to deep Flutter expertise, now building agentic AI<br>
-🤖 Building agentic AI systems: harnesses, context engineering, multi-agent orchestration and multi-provider LLM pipelines<br>
-🚀 Shipped a lot, killed most, 3 still standing: [cookfolio](https://cookfolio.eu/), [cortex-labs](https://cortex-labs.eu/), [kanso](https://kanso-extension.eu/)
+- 🔭 Technical Lead @lamobilery, helping clients pinpoint where AI fits, then designing and building their agentic solutions, while shipping my own products as a Solopreneur
+- ⚡ 11 years in software, from Native Android/iOS to deep Flutter expertise, now building agentic AI
+- 🤖 Building agentic AI systems: harnesses, context engineering, multi-agent orchestration and multi-provider LLM pipelines
+- 🚀 Shipped a lot, killed most, 3 still standing: [cookfolio](https://cookfolio.eu/), [cortex-labs](https://cortex-labs.eu/), [kanso](https://kanso-extension.eu/)
 
 ## My core skill set
 
@@ -34,10 +34,10 @@
 
 ## My daily tools
 
-💻 Laptop: MacBook Pro (M1)<br>
-⌨️ Terminal: Warp - ZSH/OhMyZsh<br>
-🛠️ IDE: VS Code - Android Studio - Xcode<br>
-🌐 Browser: Vivaldi<br>
-🔒 Privacy stack: Proton (Mail, Calendar, Drive, VPN, Password manager)<br>
-📝 Organization & docs: Notion - Typora<br>
-🎙️ Voice: Willow Voice
+- 💻 Laptop: MacBook Pro (M1)
+- ⌨️ Terminal: Warp - ZSH/OhMyZsh
+- 🛠️ IDE: VS Code - Android Studio - Xcode
+- 🌐 Browser: Vivaldi
+- 🔒 Privacy stack: Proton (Mail, Calendar, Drive, VPN, Password manager)
+- 📝 Organization & docs: Notion - Typora
+- 🎙️ Voice: Willow Voice
